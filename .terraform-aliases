@@ -1,0 +1,8 @@
+# Configure bash aliases for terraform
+
+alias tf='terraform'
+alias tfa='terraform apply'
+alias tfd='terraform destroy'
+alias tfi='terraform init'
+alias tfo='terraform output'
+alias tfp='terraform plan'

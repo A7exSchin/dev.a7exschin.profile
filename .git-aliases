@@ -1,0 +1,11 @@
+[alias]
+	st = status
+	co = checkout
+	p = push
+	cm = commit -m
+	a = add -A
+	ft = fetch && git st
+[pull]
+	rebase = false
+[credential]
+	helper = cache --timeout=86400

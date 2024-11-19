@@ -1,0 +1,8 @@
+# Configure bash aliases for terragrunt
+
+alias tg='terragrunt'
+alias tga='terragrunt apply'
+alias tgd='terragrunt destroy'
+alias tgin='terragrunt init'
+alias tgp='terragrunt plan'
+alias tgv='terragrunt validate'

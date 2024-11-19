@@ -1,0 +1,1 @@
+# Soon to be easy curl install script
